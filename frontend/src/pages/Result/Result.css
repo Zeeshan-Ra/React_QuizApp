@@ -1,0 +1,15 @@
+.result {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60vh;
+    text-align: center;
+  }
+
+  .score{
+    text-transform: uppercase;
+    font-size: 8vw;
+    font-family: "Montserrat", sans-serif;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
