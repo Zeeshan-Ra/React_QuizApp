@@ -18,7 +18,7 @@ Follow these steps to set up and run the Quiz App locally:
 
    ```bash
    git clone https://github.com/your-username/quiz-app.git
-   cd quiz-app
+   cd frontend
    ```
 
 2. **Install dependencies:**
